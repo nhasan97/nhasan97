@@ -13,3 +13,9 @@
 ## Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nhasan97&theme=tokyonight)](https://git.io/streak-stats)
+
+## Profile Summary
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhasan97&theme=radical)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhasan97&theme=radical)
