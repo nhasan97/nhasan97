@@ -9,3 +9,7 @@
 - 📫 How to reach me: nh6069325@gmail.com
 
 ## Technologies I Have Worked With
+
+## Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nhasan97&theme=tokyonight)](https://git.io/streak-stats)
