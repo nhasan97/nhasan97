@@ -10,6 +10,8 @@
 
 ## Technologies I Have Worked With
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongo,express,firebase,tailwind,figma)](https://skillicons.dev)
+
 ## Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nhasan97&theme=tokyonight)](https://git.io/streak-stats)
