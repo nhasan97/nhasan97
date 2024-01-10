@@ -1,4 +1,4 @@
-![Profile Banner](/images/Banner/Banner.png "Profile Banner")
+![Profile Banner](/images/Banner/Banner2.png "Profile Banner")
 
 ## Current Overview
 
