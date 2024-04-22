@@ -6,7 +6,7 @@
 - 🌱 Currently I’m learning Mongoose for strengthening backend skills.
 - 👯 I’m looking to collaborate on innovative MERN Stack projects with development teams.
 - 🤔 I’m looking for help with integration of AI in MERN projects.
-- 📫 How to reach me: nh6069325@gmail.com
+- 📫 How to reach me: nazia.hasan2024@gmail.com
 
 ## Technologies I Have Worked With
 
