@@ -14,7 +14,11 @@
 
 ## Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nhasan97&theme=tokyonight)](https://git.io/streak-stats)
+<div style="width: 100%;">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nhasan97&theme=tokyonight" alt="GitHub Streak Stats" style="width: 100%;"/>
+
+</div>
 
 ## Profile Summary
 
@@ -24,15 +28,15 @@
 
 </div>
 
-<div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: space-around;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhasan97&theme=tokyonight" alt="Profile Details" style="margin: 10px; width: 50%;"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhasan97&theme=tokyonight" alt="Profile Details" style="margin: 10px; width: 45%;"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nhasan97&theme=tokyonight" alt="Profile Details" style="margin: 10px; width: 50%;"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nhasan97&theme=tokyonight" alt="Profile Details" style="margin: 10px; width: 45%;"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhasan97&theme=tokyonight" alt="Profile Details" style="margin: 10px; width: 50%;"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhasan97&theme=tokyonight" alt="Profile Details" style="margin: 10px; width: 45%;"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nhasan97&theme=tokyonight&utcOffset=8" alt="Profile Details" style="margin: 10px; width: 50%;"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nhasan97&theme=tokyonight&utcOffset=8" alt="Profile Details" style="margin: 10px; width: 45%;"/>
 
 </div>
 
