@@ -28,15 +28,15 @@
 
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhasan97&theme=tokyonight" alt="Profile Details" style="margin: 10px; width: 45%;"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhasan97&theme=tokyonight" alt="Profile Details" style="width: 48%;"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nhasan97&theme=tokyonight" alt="Profile Details" style="margin: 10px; width: 45%;"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nhasan97&theme=tokyonight" alt="Profile Details" style="width: 48%;"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhasan97&theme=tokyonight" alt="Profile Details" style="margin: 10px; width: 45%;"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhasan97&theme=tokyonight" alt="Profile Details" style="width: 48%;"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nhasan97&theme=tokyonight&utcOffset=8" alt="Profile Details" style="margin: 10px; width: 45%;"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nhasan97&theme=tokyonight&utcOffset=8" alt="Profile Details" style="width: 48%;"/>
 
 </div>
 
