@@ -10,7 +10,7 @@
 
 ## Technologies I Have Worked With
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongo,express,firebase,tailwind,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongo,firebase,figma)](https://skillicons.dev)
 
 ## Streak Stats
 
