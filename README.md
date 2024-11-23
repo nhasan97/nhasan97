@@ -18,9 +18,9 @@
 
 ## Profile Summary
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhasan97&theme=tokyonight)
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhasan97&theme=tokyonight" alt="Profile Details" style="margin: 10px; width: 45%;"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhasan97&theme=tokyonight" alt="Profile Details" style="margin: 10px; width: 45%;"/>
 
