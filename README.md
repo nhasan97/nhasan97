@@ -85,16 +85,16 @@
 
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
 
-  <a href="https://twitter.com/yourusername" target="_blank" style="text-decoration: none;width: 30%;">
-    <img src="images/email.png" alt="Twitter" style=" ">
+  <a href="https://twitter.com/yourusername" target="_blank" style="text-decoration: none;">
+    <img src="images/email.png" alt="Twitter" style="width: 50px; height: 50px;">
   </a>
 
-  <a href="https://github.com/yourusername" target="_blank" style="text-decoration: none;width: 30%;">
-    <img src="images/linkedin.png" alt="GitHub" style=" ">
+  <a href="https://github.com/yourusername" target="_blank" style="text-decoration: none;">
+    <img src="images/linkedin.png" alt="GitHub" style="width: 50px; height: 50px;">
   </a>
 
-  <a href="https://linkedin.com/in/yourusername" target="_blank" style="text-decoration: none;width: 30%;">
-    <img src="images/discord.png" alt="LinkedIn" style=" ">
+  <a href="https://linkedin.com/in/yourusername" target="_blank" style="text-decoration: none;">
+    <img src="images/discord.png" alt="LinkedIn" style="width: 50px; height: 50px;">
   </a>
 
 </div>
