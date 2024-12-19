@@ -86,17 +86,17 @@
 <div align='center' style="display: flex; justify-content: center; gap: 40px;">
 
 <a href="https://www.linkedin.com/in/nazia-hasan2024/" target="_blank" style="text-decoration: none;">
-    <img src="images/linkedin.png" alt="GitHub" style=" height: 80px;"></img>
+    <img src="images/linkedin.png" alt="GitHub" style=" height: 120px;"></img>
   </a>
 
 <!-- <a href="" target="_blank" style="text-decoration: none;"> -->
 
-  <img src="images/email.png" alt="Twitter" style=" height: 80px;">
+  <img src="images/email.png" alt="Twitter" style=" height: 120px;">
     
   <!-- </a> -->
 
 <!-- <a href="" target="_blank" style="text-decoration: none;"> -->
-  <img src="images/discord.png" alt="LinkedIn" style=" height: 80px;">
+  <img src="images/discord.png" alt="LinkedIn" style=" height: 120px;">
   <!-- </a> -->
 
 </div>
