@@ -85,7 +85,7 @@
 
  <!--  -->
 
-<div style="display: flex; justify-content: center;>
+<div style="display: flex; justify-content: between;>
 
 <a href="nazia.hasan2024@gmail.com" target="_blank">
   <img src="images/email.png" style="width: 30%;" alt="Twitter" >
