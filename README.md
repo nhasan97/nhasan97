@@ -83,21 +83,21 @@
 
 ## Contact
 
-<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<div>  
+<div style="width: 30%; border:1px solid white;">  
 <!-- <a href="https://twitter.com/yourusername" target="_blank" style="text-decoration: none;"> -->
     <img src="images/email.png" alt="Twitter" style=" height: 50px;">
   <!-- </a> -->
   </div>
 
-<div> 
+<div style="width: 30%; border:1px solid white;"> 
 <!-- <a href="https://github.com/yourusername" target="_blank" style="text-decoration: none;"> -->
     <img src="images/linkedin.png" alt="GitHub" style=" height: 50px;">
   <!-- </a> -->
   </div>
 
-<div> 
+<div style="width: 30%; border:1px solid white;"> 
 <!-- <a href="https://linkedin.com/in/yourusername" target="_blank" style="text-decoration: none;"> -->
     <img src="images/discord.png" alt="LinkedIn" style=" height: 50px;">
   <!-- </a> -->
