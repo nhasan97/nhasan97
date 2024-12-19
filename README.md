@@ -85,17 +85,23 @@
 
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
 
-  <a href="https://twitter.com/yourusername" target="_blank" style="text-decoration: none;">
+<div>  
+<!-- <a href="https://twitter.com/yourusername" target="_blank" style="text-decoration: none;"> -->
     <img src="images/email.png" alt="Twitter" style=" height: 50px;">
-  </a>
+  <!-- </a> -->
+  </div>
 
-  <a href="https://github.com/yourusername" target="_blank" style="text-decoration: none;">
+<div> 
+<!-- <a href="https://github.com/yourusername" target="_blank" style="text-decoration: none;"> -->
     <img src="images/linkedin.png" alt="GitHub" style=" height: 50px;">
-  </a>
+  <!-- </a> -->
+  </div>
 
-  <a href="https://linkedin.com/in/yourusername" target="_blank" style="text-decoration: none;">
+<div> 
+<!-- <a href="https://linkedin.com/in/yourusername" target="_blank" style="text-decoration: none;"> -->
     <img src="images/discord.png" alt="LinkedIn" style=" height: 50px;">
-  </a>
+  <!-- </a> -->
+  </div>
 
 </div>
 
