@@ -10,7 +10,48 @@
 
 ## Technologies I Have Worked With
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongo,firebase,figma)](https://skillicons.dev)
+<div style="width: 100%; border-radius: 8px;">
+
+  <table style="width: 100%; border-radius: 8px; border: 1px solid gray; border-collapse: collapse;">
+    <tr style="border-collapse: collapse;">
+      <td style="width: 268px; padding: 8px;">Languages</td>
+      <td style="width: 626px; border:none; padding: 8px;">
+        <img src="https://skillicons.dev/icons?i=js,ts" alt="Languages">
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 268px; padding: 8px;">Front End</td>
+      <td style="width: 626px; border:none; padding: 8px;">
+        <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind&theme=dark" alt="Front End">
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 268px; padding: 8px;">Backend</td>
+      <td style="width: 626px; border:none; padding: 8px;">
+        <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend">
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 268px; padding: 8px;">Database</td>
+      <td style="width: 626px; border:none; padding: 8px;">
+        <img src="https://skillicons.dev/icons?i=mongo,firebase&theme=dark" alt="Database">
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 268px; padding: 8px;">Tools</td>
+      <td style="width: 626px; border:none; padding: 8px;">
+        <img src="https://skillicons.dev/icons?i=vscode,postman,figma&theme=dark" alt="Tools">
+      </td>
+    </tr>
+
+  </table>
+
+</div>
+
+<!-- <tr>
+<td style="width: 30%;">Platform</td>
+<td style="width: 70%;"><img src="https://skillicons.dev/icons?i=shopify"></td>
+<tr> -->
 
 ## Streak Stats
 
@@ -39,6 +80,23 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nhasan97&theme=tokyonight&utcOffset=8" alt="Profile Details" style="width: 49%;"/>
 
 </div>
+
+<!-- techonologies v1 -->
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongo,firebase,figma)](https://skillicons.dev)
+ -->
+
+<!-- techonologies v2 -->
+
+<!-- | Social Link 1 | Technologies                                                                                                |
+| :------------ | :---------------------------------------------------------------------------------------------------------- |
+| Languages     | [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)                                |
+| Front End     | [![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind)](https://skillicons.dev) |
+| Backend       | [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)                       |
+| Database      | [![My Skills](https://skillicons.dev/icons?i=mongo,firebase)](https://skillicons.dev)                       |
+| Tools         | [![My Skills](https://skillicons.dev/icons?i=vscode,postman,figma)](https://skillicons.dev)                 | -->
+
+<!-- stats v1 -->
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhasan97&theme=tokyonight)
 
