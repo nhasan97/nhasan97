@@ -81,6 +81,23 @@
 
 </div>
 
+## Contact
+
+ <!-- style="width: 40px; height: 40px; margin-right: 10px;" -->
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+<!-- <a href="nazia.hasan2024@gmail.com" target="_blank"> -->
+  <img src="images/email.png" alt="Twitter">
+<!-- </a> -->
+<a href="https://www.linkedin.com/in/nazia-hasan2024/" target="_blank">
+  <img src="images/linkedin.png" alt="Twitter"">
+</a>
+<a href="https://twitter.com/yourusername" target="_blank">
+  <img src="images/discord.png" alt="Twitter">
+</a>
+</div>
+
 <!-- techonologies v1 -->
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongo,firebase,figma)](https://skillicons.dev)
