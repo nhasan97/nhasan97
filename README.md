@@ -83,7 +83,23 @@
 
 ## Contact
 
- <!--  -->
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+
+  <a href="https://twitter.com/yourusername" target="_blank" style="text-decoration: none;">
+    <img src="images/email.png" alt="Twitter" style="height: 50px;">
+  </a>
+
+  <a href="https://github.com/yourusername" target="_blank" style="text-decoration: none;">
+    <img src="images/linkedin.png" alt="GitHub" style="height: 50px;">
+  </a>
+
+  <a href="https://linkedin.com/in/yourusername" target="_blank" style="text-decoration: none;">
+    <img src="images/discord.png" alt="LinkedIn" style="height: 50px;">
+  </a>
+
+</div>
+
+ <!--
 
 <div style="width: 100%; display: flex; justify-content: space-between; gap: 20px; border:1px solid white;">
 
@@ -98,7 +114,7 @@
 <a href="https://twitter.com/yourusername" target="_blank">
   <img src="images/discord.png" style="width: 30%;" alt="Twitter">
 </a>
-</div>
+</div> -->
 
 <!-- techonologies v1 -->
 
