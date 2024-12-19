@@ -85,16 +85,16 @@
 
 <div style="display: flex; flex-direction:row; justify-content: center; align-items: center; width: 100%;">
 
-  <a href="https://twitter.com/yourusername" target="_blank" style="text-decoration: none; border:1px solid white; width:106px; margin:0px 24px;">
-    <img src="images/email.png" alt="Twitter" style="height: 50px;">
+  <a href="https://twitter.com/yourusername" target="_blank" style="text-decoration: none; border:1px solid white; ">
+    <img src="images/email.png" alt="Twitter" style="height: 50px; width:106px; margin:0px 24px;">
   </a>
 
-  <a href="https://github.com/yourusername" target="_blank" style="text-decoration: none; border:1px solid white; width:106px; margin:0px 24px;">
-    <img src="images/linkedin.png" alt="GitHub" style=" height: 50px;">
+  <a href="https://github.com/yourusername" target="_blank" style="text-decoration: none; border:1px solid white; ">
+    <img src="images/linkedin.png" alt="GitHub" style=" height: 50px; width:106px; margin:0px 24px;">
   </a>
 
-  <a href="https://linkedin.com/in/yourusername" target="_blank" style="text-decoration: none; border:1px solid white; width:106px; margin:0px 24px;">
-    <img src="images/discord.png" alt="LinkedIn" style=" height: 50px;">
+  <a href="https://linkedin.com/in/yourusername" target="_blank" style="text-decoration: none; border:1px solid white;">
+    <img src="images/discord.png" alt="LinkedIn" style=" height: 50px; width:106px; margin:0px 24px;">
   </a>
 
 </div>
