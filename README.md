@@ -83,7 +83,7 @@
 
 ## Contact
 
-<div style="display: flex; justify-content: center; gap: 40px;">
+<div align='center' style="display: flex; justify-content: center; gap: 40px;">
 
 <a href="https://www.linkedin.com/in/nazia-hasan2024/" target="_blank" style="text-decoration: none;">
     <img src="images/linkedin.png" alt="GitHub" style=" height: 80px;"></img>
