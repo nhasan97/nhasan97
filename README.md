@@ -83,7 +83,7 @@
 
 ## Contact
 
-<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
+<div style="display: flex; flex-direction:row; justify-content: space-around; align-items: center; width: 100%;">
 
   <a href="https://twitter.com/yourusername" target="_blank" style="text-decoration: none; border:1px solid white; width:30%">
     <img src="images/email.png" alt="Twitter" style="width:100%; height: 50px;">
