@@ -83,18 +83,20 @@
 
 ## Contact
 
- <!-- style="width: 40px; height: 40px; margin-right: 10px;" -->
+ <!--  -->
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center;>
 
-<!-- <a href="nazia.hasan2024@gmail.com" target="_blank"> -->
-  <img src="images/email.png" alt="Twitter">
-<!-- </a> -->
-<a href="https://www.linkedin.com/in/nazia-hasan2024/" target="_blank">
-  <img src="images/linkedin.png" alt="Twitter"">
+<a href="nazia.hasan2024@gmail.com" target="_blank">
+  <img src="images/email.png" style="width: 30%;" alt="Twitter" >
 </a>
+
+<a href="https://www.linkedin.com/in/nazia-hasan2024/" target="_blank">
+  <img src="images/linkedin.png" style="width: 30%;" alt="Twitter" >
+</a>
+
 <a href="https://twitter.com/yourusername" target="_blank">
-  <img src="images/discord.png" alt="Twitter">
+  <img src="images/discord.png" style="width: 30%;" alt="Twitter">
 </a>
 </div>
 
