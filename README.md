@@ -83,7 +83,7 @@
 
 ## Contact
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px;">
 
 <div style="width: 30%; border:1px solid white;">  
 <!-- <a href="https://twitter.com/yourusername" target="_blank" style="text-decoration: none;"> -->
