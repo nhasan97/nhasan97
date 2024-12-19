@@ -95,9 +95,9 @@
     
   <!-- </a> -->
 
-<a href="" target="_blank" style="text-decoration: none;">
-    <img src="images/discord.png" alt="LinkedIn" style=" height: 80px;">
-  </a>
+<!-- <a href="" target="_blank" style="text-decoration: none;"> -->
+  <img src="images/discord.png" alt="LinkedIn" style=" height: 80px;">
+  <!-- </a> -->
 
 </div>
 
