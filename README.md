@@ -83,22 +83,19 @@
 
 ## Contact
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 40px;">
 
 <a href="https://www.linkedin.com/in/nazia-hasan2024/" target="_blank" style="text-decoration: none;">
-    <img src="images/linkedin.png" alt="GitHub" style=" height: 50px;">
+    <img src="images/linkedin.png" alt="GitHub" style=" height: 50px;"></img>
   </a>
 
 <a href="https://twitter.com/yourusername" target="_blank" style="text-decoration: none;">
     <img src="images/email.png" alt="Twitter" style=" height: 50px;">
   </a>
-  
-
 
 <a href="https://linkedin.com/in/yourusername" target="_blank" style="text-decoration: none;">
     <img src="images/discord.png" alt="LinkedIn" style=" height: 50px;">
   </a>
-
 
 </div>
 
